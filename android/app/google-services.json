@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72397612754",
+    "project_id": "vape-zone-9633d",
+    "storage_bucket": "vape-zone-9633d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72397612754:android:d7c49b8d724280d3ffaf0b",
+        "android_client_info": {
+          "package_name": "com.example.vapezone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA4jznEKj9F4Dw1ahS0OW6UsIyb05w1Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
